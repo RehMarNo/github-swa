@@ -14,7 +14,9 @@ new Vue({
   render: h => h(App),
   methods:{
     redirecionar: function () {
-      window.open("https://www.linkedin.com/in/renata-marques-959561175/")
+      window.open("https://www.linkedin.com/in/renata-marques-959561175/", "_blank")
     }
   }
 }).$mount('#app');
+
+this.redirecionar()
