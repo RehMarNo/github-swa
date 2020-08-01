@@ -3,21 +3,13 @@
     <div class="ui inverted vertical masthead center aligned segment">
       <div class="ui text container">
         <h1 class="ui inverted header"> Aplicação Todo List com Vue.js 3</h1>
-        <h2 class="ui inverted header">Glaucia Lemos
-          <div class="sub header">Cloud Advocate em JavaScript/Node.js @ Microsoft</div>
+        <h2 class="ui inverted header">Renata Marques
+          <div class="sub header">Graduanda em Matemática Computacional na UFPB</div>
         </h2>
-        <h3 class="ui inverted header">Rio de Janeiro, Brasil - 2020</h3>
-        <a class="tiny ui youtube button" type="button" href="https://www.youtube.com/user/l32759">
-          <i class="youtube icon"></i>
-          YouTube
-        </a>
-        <a class="tiny ui linkedin button" type="button" href="https://www.linkedin.com/in/glaucialemos/">
+        <h3 class="ui inverted header">Paraíba, Brasil - 2020</h3>
+        <a class="tiny ui linkedin button" type="button" href="https://www.linkedin.com/in/renata-marques-959561175/">
           <i class="linkedin icon"></i>
           LinkedIn
-        </a>
-        <a class="tiny ui twitter button" type="button" href="https://twitter.com/glaucia_lemos86">
-          <i class="twitter icon"></i>
-          Twitter
         </a>
       </div>
     </div>
