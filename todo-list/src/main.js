@@ -12,4 +12,9 @@ import App from './App.vue';
 new Vue({
   router,
   render: h => h(App),
+  methods:{
+    redirecionar: function () {
+      window.open("https://www.linkedin.com/in/renata-marques-959561175/")
+    }
+  }
 }).$mount('#app');

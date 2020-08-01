@@ -7,7 +7,7 @@
           <div class="sub header">Graduanda em Matemática Computacional na UFPB</div>
         </h2>
         <h3 class="ui inverted header">Paraíba, Brasil - 2020</h3>
-        <a class="tiny ui linkedin button" type="button" href="https://www.linkedin.com/in/renata-marques-959561175/">
+        <a class="tiny ui linkedin button" type="button" onclick="redirecionar()">
           <i class="linkedin icon"></i>
           LinkedIn
         </a>
